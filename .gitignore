@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Logs / runtime
+*.log
+*.corrupted
+memory.json
+
+# Models (NUNCA subir)
+models/
+
+# OS / IDE
+Thumbs.db
+.DS_Store
+.vscode/
+.idea/
